@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPoster", "AutoPoster\AutoPoster.csproj", "{89576510-9637-4F4B-98AC-C9D826AB1766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89576510-9637-4F4B-98AC-C9D826AB1766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89576510-9637-4F4B-98AC-C9D826AB1766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89576510-9637-4F4B-98AC-C9D826AB1766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89576510-9637-4F4B-98AC-C9D826AB1766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5DC0E1A-B4A4-48D6-B590-FE326F1142D1}
+	EndGlobalSection
+EndGlobal

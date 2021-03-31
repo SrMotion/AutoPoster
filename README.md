@@ -1,2 +1,2 @@
 # AutoPoster
-an shitty auto poster(my old projects...)
+an shitty facebook auto poster(my old projects...)

@@ -25,15 +25,15 @@ namespace AutoPoster
 			tagg = Console.ReadLine();
 		    backnumber:
 			Console.Write("[+]Which number to start from. (Write 1 for the first posts):");
-			startnumber = int.TryParse(Console.ReadLine(), out int output) ? output : 123324274;
-			if (startnumber == 123324274)
+			startnumber = int.TryParse(Console.ReadLine(), out int output) ? output : -1;
+			if (startnumber == -1)
 			{
 				goto backnumber;//not integer go back :D
 			}
 		    lastpost:
 			Console.Write("[+]Last Post To Be Taken:");
-			totalpost = int.TryParse(Console.ReadLine(), out int gayr) ? gayr : 123324274;
-			if (totalpost == 123324274)
+			totalpost = int.TryParse(Console.ReadLine(), out int gayr) ? gayr : -1;
+			if (totalpost == -1)
 			{
 				goto lastpost;
 			}
